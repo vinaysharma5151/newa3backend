@@ -1,0 +1,19 @@
+{
+  "name": "debate-platform-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.7.0",
+    "socket.io": "^4.7.2",
+    "cohere-ai": "^7.15.0",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
